@@ -1,0 +1,15 @@
+{
+    "name": "Ethio-Date",
+    "version": "1.0.0",
+    "description": "Current Local Time in Ethiopia",
+    "manifest_version": 3,
+    "author": "Fikerte",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Ethiopian Time"
+    },
+	"icons":{ "16": "ethio.png",
+		"48": "ethio.png",
+		"128": "ethio.png"}
+	
+}
